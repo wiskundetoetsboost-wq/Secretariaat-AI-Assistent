@@ -1,0 +1,7 @@
+{
+  "name": "Secretariaat AI Assistent",
+  "description": "Een professionele AI-assistent voor het genereren van brieven, e-mails, en berichten. Kies het formaat, de toon, en de actie, en de AI schrijft de perfecte tekst die u direct kunt kopiëren of downloaden als Word/PDF.",
+  "requestFramePermissions": [
+    "clipboard-read"
+  ]
+}
